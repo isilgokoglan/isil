@@ -6,4 +6,4 @@
 
 #### beyaz
 
-![**BEYİN] (https://github.com/isilgokoglan/isil/blob/beyin/beyin.png)
+![**Beyin(/isil/blob/beyin/images/beyin.png)]
