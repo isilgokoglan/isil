@@ -7,4 +7,4 @@
 #### beyaz
 # beyin
 
-![Beyin](/isil/blob/beyin/images/beyin2)
+![Beyin](/isil/blob/beyin/images/beyin2.png)
