@@ -6,4 +6,4 @@
 
 #### beyaz
 
-![**Beyin](/isil/blob/beyin/images/beyin.png)
+![Beyin](/isil/blob/beyin/images/beyin.png)
