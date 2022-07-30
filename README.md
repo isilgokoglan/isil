@@ -6,4 +6,4 @@
 
 #### beyaz
 
-![**BEYİN] (https://github.com/isilgokoglan/isil/edit/beyin/Masaüstü/beyin)
+![] (https://github.com/isilgokoglan/isil/edit/beyin/Masaüstü/beyin)
