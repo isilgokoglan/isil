@@ -8,6 +8,6 @@
 
 # beyin
 
-![Beyin](/isil/blob/beyin/images/beyin2.png)
+![Beyin](/isil/blob/beyin/beyin.png)
 
 ![beyin](/isil/blob/beyin/beyin2.png)
